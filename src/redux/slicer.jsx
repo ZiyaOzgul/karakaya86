@@ -123,7 +123,7 @@ export const slicer = createSlice({
           "http://www.karakaya86.com.tr/Dosya/Haberler/158a448dc0ffe9.jpg",
         title: "30. Yılımızda 4. Fabrikamız",
         date: "02.07.2016",
-        new: "Açılışa Kocaeli Büyükşehir Belediye Başkanı İbrahim Karaosmanoğlu, Gebze Belediye Başkanı Adnan Köşker, Eflani Belediye Başkanı İbrahim Ertuğrul Başta Olmak Üzere, Siyasi Parti Temsilcileri, Ülkemiz Otomotiv Sektörünün Önde Gelen Temsilcileri Katıldı. Açılış Konuşmasını Yapan Hasan Karakaya “Sektörde 30 Yılı Geride Bıraktığımız Bu Yılda, Bu Başarımızda Bizimle Olan Dostlarıma, Aileme Ve Çalışma Arkadaşlarıma Çok Teşekkür Ediyorum” Dedi",
+        new: "Açılışa Kocaeli Büyükşehir Belediye Başkanı İbrahim Karaosmanoğlu, Gebze Belediye Başkanı Adnan Köşker, Eflani Belediye Başkanı İbrahim Ertuğrul Başta Olmak Üzere, Siyasi Parti Temsilcileri, Ülkemiz Otomotiv Sektörünün Önde Gelen Temsilcileri, Dernek ve Cemiyet Başkanları ve Çok Sayıda Vatandaş Katıldı. Açılış Konuşmasını Yapan Hasan Karakaya “Sektörde 30 Yılı Geride Bıraktığımız Bu Yılda, Bu Başarımızda Bizimle Olan Dostlarıma, Aileme Ve Çalışma Arkadaşlarıma Çok Teşekkür Ediyorum” Dedi",
       },
     ],
     referances: [
