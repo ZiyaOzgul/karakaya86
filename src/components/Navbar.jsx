@@ -17,11 +17,7 @@ function Navbar() {
                 Kurumsal
               </p>
             </Link>
-            <Link to={"/hizmetler"}>
-              <p className="font-medium text-lg text-white hover:text-red-400 ease-in-out duration-500">
-                Hizmetlerimiz
-              </p>
-            </Link>
+
             <Link to={"/labaratuvar"}>
               <p className="font-medium text-lg text-white hover:text-red-400 ease-in-out duration-500">
                 Labaratuvar
@@ -32,21 +28,7 @@ function Navbar() {
                 Referanslar
               </p>
             </Link>
-            <Link to={"/insanKaynakları"}>
-              <p className="font-medium text-lg text-white hover:text-red-400 ease-in-out duration-500">
-                İnsan Kaynakları
-              </p>
-            </Link>
-            <Link to={"/sertifikalar"}>
-              <p className="font-medium text-lg text-white hover:text-red-400 ease-in-out duration-500">
-                Sertifikalar
-              </p>
-            </Link>
-            <Link to={"/iletişim"}>
-              <p className="font-medium text-lg text-white hover:text-red-400 ease-in-out duration-500">
-                İletişim
-              </p>
-            </Link>
+
             {/* <Link to={"/üreticiFirmaİşbirliği"}>
               <p className="font-medium text-lg text-white hover:text-red-400 ease-in-out duration-500">
                 Üretici Firma İşbirliği
